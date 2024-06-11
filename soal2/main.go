@@ -41,3 +41,5 @@ func main() {
 	result := threeSum(nums)
 	fmt.Println(result)
 }
+
+// Time Complexity: O(n2)
